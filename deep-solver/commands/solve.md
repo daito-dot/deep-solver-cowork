@@ -1,9 +1,6 @@
 ---
-name: solve
-description: "未知の課題や複雑な問題に対し、マルチエージェント並列推論で解決策を導出する。ユーザーが難問・未踏課題・領域横断的な問題を提示した際に使用する。"
-user-invokable: true
-argument-hint: <課題の記述>
-allowed-tools: Read, Grep, Glob, Bash, WebSearch, WebFetch, Task, Skill
+description: 未知の課題や複雑な問題に対し、マルチエージェント並列推論で解決策を導出する
+argument-hint: "<課題の記述>"
 ---
 
 # Deep Solver: 未知の課題に対する超階層的問題解決エンジン
