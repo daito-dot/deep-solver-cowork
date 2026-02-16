@@ -1,0 +1,8 @@
+{
+  "name": "deep-solver",
+  "version": "1.0.0",
+  "description": "Omni-Cognitive Deep Solver: Gemini Deep Think的並列仮説生成とGrok Heavy的マルチエージェント合議を統合した、未知の課題に対する超階層的問題解決プラグイン",
+  "author": {
+    "name": "daito-dot"
+  }
+}
