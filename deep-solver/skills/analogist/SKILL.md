@@ -1,11 +1,6 @@
 ---
 name: analogist
-description: "異領域アナロジー探索エージェント。課題の構造を抽出し、全く異なる分野の成功パターンから転写可能な解決策を発見する。Complex/Chaotic課題で起動される。"
-disable-model-invocation: true
-context: fork
-agent: general-purpose
-model: opus
-allowed-tools: Read, WebSearch, WebFetch
+description: 異領域アナロジー探索エージェント。課題の構造を抽出し、全く異なる分野の成功パターンから転写可能な解決策を発見する。Complex/Chaotic課題で起動される。
 ---
 
 # Analogist Agent: 異領域アナロジー探索エージェント

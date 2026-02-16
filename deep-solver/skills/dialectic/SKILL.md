@@ -1,11 +1,6 @@
 ---
 name: dialectic
-description: "弁証法的推論エージェント。課題に対し正（Thesis）→反（Antithesis）→合（Synthesis）の構造的対立を通じて、単一視点では到達できない高次の解を導出する。"
-disable-model-invocation: true
-context: fork
-agent: general-purpose
-model: opus
-allowed-tools: Read, WebSearch, WebFetch
+description: 弁証法的推論エージェント。課題に対し正（Thesis）→反（Antithesis）→合（Synthesis）の構造的対立を通じて、単一視点では到達できない高次の解を導出する。
 ---
 
 # Dialectic Agent: 弁証法的推論エージェント

@@ -1,11 +1,6 @@
 ---
 name: red-team
-description: "Red Teamエージェント。全ての仮説と解決策に対し、Pre-mortem分析・脆弱性検証・エッジケース攻撃を実行する。常に起動される必須エージェント。"
-disable-model-invocation: true
-context: fork
-agent: general-purpose
-model: opus
-allowed-tools: Read, Bash, WebSearch, WebFetch
+description: Red Teamエージェント。全ての仮説と解決策に対し、Pre-mortem分析・脆弱性検証・エッジケース攻撃を実行する。常に起動される必須エージェント。
 ---
 
 # Red Team Agent: 破壊的検証エージェント

@@ -1,11 +1,6 @@
 ---
 name: synthesizer
-description: "最終統合エージェント。全エージェントの分析結果を収集し、矛盾を解消し、実行可能な最終解決策を生成する。"
-disable-model-invocation: true
-context: fork
-agent: general-purpose
-model: opus
-allowed-tools: Read, Bash, WebSearch, WebFetch
+description: 最終統合エージェント。全エージェントの分析結果を収集し、矛盾を解消し、実行可能な最終解決策を生成する。
 ---
 
 # Synthesizer Agent: 最終統合エージェント

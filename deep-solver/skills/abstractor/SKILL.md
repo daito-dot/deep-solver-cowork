@@ -1,11 +1,6 @@
 ---
 name: abstractor
-description: "抽象度レベル分離エージェント。課題を具体層・構造層・メタ層の3つの抽象度で独立に分析し、各層で異なる洞察を引き出す。構造的曖昧性が高い課題で起動される。"
-disable-model-invocation: true
-context: fork
-agent: general-purpose
-model: opus
-allowed-tools: Read, WebSearch, WebFetch
+description: 抽象度レベル分離エージェント。課題を具体層・構造層・メタ層の3つの抽象度で独立に分析し、各層で異なる洞察を引き出す。構造的曖昧性が高い課題で起動される。
 ---
 
 # Abstractor Agent: 抽象度レベル分離エージェント
